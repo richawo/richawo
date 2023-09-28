@@ -1,28 +1,25 @@
 ![image](https://github.com/richawo/richawo/assets/35015261/3f7d83da-35e1-4894-b027-eaa33c8be6d0)
 
-### Hey, I'm Richard 👋🏾
+### Bio
 
-*I'm a Full-Stack Builder from London - working on everything from ideas → deployment.*
+*Hey, I'm Richard 👋🏾 -  a Full-Stack Builder from London working on everything from ideas → deployment.*
 
-*I started as an [Actuary](https://en.wikipedia.org/wiki/Actuary), but after automating my first role 3 months in, I fell in love with engineering. Then, I became hooked on startups after becoming an early employee and growing a B2B SaaS startup from ≈0 to >$10m ARR (2x acq)! Now, I’m a Full-Stack Engineer - with 10+ years of experience designing, building and shipping products that people love!*
+*I'm a former Actuary who became hooked on startups after becoming an early employee and growing a B2B SaaS startup from ≈0 to >$10m ARR (acquired)! Now, I’m a Full-Stack Engineer - with 10+ years of experience designing, building and shipping products that people love!*
 
-*Since March, I've been building a suite of AI tools ([Nack](https://nack.ai)) with my brother, entirely bootstrapped. Our multi-modal mobile assistant has thousands of users across ≈100 countries, and now we have over a dozen businesses waiting on our B2B, AI-powered SEO tool (launching soon).*
+### Recent Projects
+
+*Since March, I've been bootstrapping a suite of AI tools under [Nack](https://nack.ai):*
+* A multi-modal mobile assistant has thousands of users across ≈100 countries
+* B2B, AI-powered SEO tool (launching soon), with over a dozen businesses on the [waitlist](https://tally.so/forms/w4JLd5).*
+
+*Most of my work is in private repositories, so I've started on a few open-source projects + contributions for more public benefit.*
 
 ---
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richardawoyemi/) works well
+### 💭 Current interests:
+LLMs, Retrieval Augmented Generation (RAG), AI Agents, etc.
 
+---
 
-<!--
-**richawo/richawo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch?
+[LinkedIn](https://www.linkedin.com/in/richardawoyemi/) works relatively well.
