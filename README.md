@@ -1,5 +1,4 @@
-![image](https://github.com/richawo/richawo/assets/35015261/1c70a536-74bf-417b-afd6-78ae610b37d7)
-
+![image](https://github.com/richawo/richawo/assets/35015261/3f7d83da-35e1-4894-b027-eaa33c8be6d0)
 
 ### Hey, I'm Richard 👋🏾
 
