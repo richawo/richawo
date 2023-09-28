@@ -8,11 +8,14 @@
 
 ### Recent Projects
 
-*Since March, I've been bootstrapping a suite of AI tools under [Nack](https://nack.ai):*
-* A multi-modal mobile assistant has thousands of users across ≈100 countries
-* B2B, AI-powered SEO tool (launching soon), with over a dozen businesses on the [waitlist](https://tally.so/forms/w4JLd5).*
+* `Nack`: A multi-modal mobile assistant has thousands of users across ≈100 countries on iOS and Android
+* `Nack SEO`: B2B, AI-powered SEO tool (launching soon), with over a dozen businesses on the [waitlist](https://tally.so/forms/w4JLd5).
 
-*Most of my work is in private repositories, so I've started on a few open-source projects + contributions for more public benefit.*
+*Most of my work is in private repositories, so I've started on a few open-source projects:*
+
+* `Chain of Density`: Implementing the Chain Of Density text summarisation technique from recent NLP research by researchers at Salesforce, MIT, Columbia, etc.
+* `LLM Translator`: Translate Markdown files from one language to another using OpenAI's API while retaining original formatting.
+* `Framer Motion Cheatsheet`: A Framer Motion cheatsheet built in React, NextJs and Tailwind.
 
 ---
 
