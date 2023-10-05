@@ -17,6 +17,8 @@
 * `LLM Translator`: Translate Markdown files from one language to another using OpenAI's API while retaining original formatting.
 * `Framer Motion Cheatsheet`: A Framer Motion cheatsheet built in React, NextJs and Tailwind.
 
+I'm also contributing to several open-source AI projects.
+
 ---
 
 ### 💭 Current interests:
